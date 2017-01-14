@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Random thoughts (14 January)"
+date: 2017-01-14 10:30:00 -0800
+categories: random
+---
+Due to university getting busy again I haven't watched anything new this week. I still have to watch that second episode of *Sherlock* which /r/Sherlock seems to think is the best thing since sliced bread. Anyway I thought I would jot down some other things of note that happened this week for posterity.
+
+There are very few things in life that I enjoy more than getting nice things in the mail, and this week I got [three gorgeous lipsticks]({{ site.url }}/assets/lipsticks.jpg) and some nice skincare items in the mail, courtesy of the lovely users over at /r/MakeupExchange - which is quickly eating up all of my discretionary income but I couldn't care less. I've already put the pink shade on and it actually looks really nice and very suitable for "workplace makeup" as I call it; the other two shades are a bit more dramatic, especially the violet one, so I'll have to save them for a night out or something. I'm also expecting another package of makeup soon from another MUE user who is extremely nice and whom I've purchased things from before, so I'm excited for that to get here soon.
+
+I also found someone on Craigslist who was selling a Raspberry Pi 2B (with case, power supply, and 8 GB microSD card!) for $25 so I immediately sent them an email. Once it was in my possession I got to work setting up Pi-hole on it; previously my Raspberry Pi 3B (which I received for reddit Secret Santa) was running that, but now I've decided my RPi3 will be a dedicated RetroPie machine. I've got RetroPie set up and I have two extremely cheap fake SNES controllers of dubious origin also from Craigslist, and now I just need to download some ROMs when I have time. I looked it up and there's apparently a 128 GB (!) RetroPie image from someone called Rey which is supposedly the holy grail of RetroPie setups but until I can be bothered to buy a fucking microSD card of that size I'll stick to individual ROMS/emulators for now.
+
+And finally I got a call from the public library saying my hold for "George Lucas: A Life" had finally come through, so yesterday I went and picked that up. I'm extremely excited to start reading this biography of Our Lord and Saviour, as I had found out about it before Christmas, but in the interest of limiting my impulse purchases (which were already out of control) I decided to wait until the library had copies of it for loan. The book itself is actually pretty hefty so I'm expecting lots of salacious details - maybe not "I had an affair with Harrison Ford when I was 19"-salacious, but still pretty juicy I'm sure.
