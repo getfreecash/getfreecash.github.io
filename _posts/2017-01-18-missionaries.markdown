@@ -6,7 +6,7 @@ categories: random
 ---
 These Mormon missionaries are getting craftier, let me tell ya.
 
-I was riding the subway back home from a Craigslist transaction (I sold a book to this guy outside a casino for $10, it was great) and on the penultimate stop to my destination, this girl got on the subway and said to me that she liked my jacket. I didn't hear her at first because I was listening to the [director's commentary for *Terminator 2: Judgment Day*]() (which I highly recommend, incidentally) and was not paying attention to my surroundings.
+I was riding the subway back home from a Craigslist transaction (I sold a book to this guy outside a casino for $10, it was great) and on the penultimate stop to my destination, this girl got on the subway and said to me that she liked my jacket. I didn't hear her at first because I was listening to the [director's commentary for *Terminator 2: Judgment Day*](http://thedirectorscommentary.tumblr.com/archive) (which I highly recommend, incidentally) and was not paying attention to my surroundings.
 
 In retrospect that opener should have been my first tip-off that I was about to be subjected to a two-minute elevator pitch for the Latter-Day Saints because my jacket [looks like this](http://www.aritzia.com/en/product/avoriaz-parka/15123.html?dwvar_15123_color=2819) and pretty much every woman in the Pacific Northwest owns a parka like this in basically the same shade of green. You can't go shopping in my city without stumbling upon one.
 
