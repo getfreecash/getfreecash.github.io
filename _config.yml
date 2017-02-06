@@ -31,7 +31,7 @@
 title: GetFreeCash
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  I'm GetFreeCash and welcome to my blog. You may know me as a moderator of /r/movies. This blog is where I write down all the shit that's too boring or too irrelevant to post on reddit - so if you're interested in reading the ramblings of a 20-something IT professional from Vancouver then stick around. (Also stick around for the dank memes that I will inevitably share.)
+  I'm GetFreeCash and welcome to my blog. You may know me as a moderator of /r/movies. This blog is where I write down all the shit that's too boring or too irrelevant to post on reddit - so if you're interested in reading the ramblings of a 20-something IT professional from Vancouver then stick around. (Also stick around for the dank memes that I will inevitably share.) The impostor on Letterboxd using my trademarked username is not me, just a sad sad wannabe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "getfreecash.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
