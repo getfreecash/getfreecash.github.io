@@ -230,7 +230,7 @@ Pretty well, actually!
 
 57. From 1-10, how much do you enjoy decorating for holidays?
 
-0.
+A 0.
 
 58. Oprah Winfrey or Ellen DeGeneres?
 
