@@ -387,7 +387,7 @@ Probably? Everything feels classier when you drink it out of a wine glass with a
 
 97. From 1-10, how feminine are you?
 
-6.
+A 6.
 
 98. Showers or baths?
 
@@ -395,7 +395,7 @@ Showers. Ain't got time for baths.
 
 99. From 1-10, how much of hopeless romantic are you?
 
-5.
+A 5.
 
 100. Complete this phrase: I’m so glad I’m a woman because______.
 
